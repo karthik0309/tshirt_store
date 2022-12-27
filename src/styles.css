@@ -1,0 +1,24 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+.help:hover {
+  background-color: green;
+}
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.Item {
+  height: 50%;
+}
+.Carousel {
+  height: 50%;
+}
